@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "bivariateLeaflet"]
 	path = bivariateLeaflet
-	url = https://github.com/cran/bivariateLeaflet
+	url = https://github.com/maduprey/bivariateleaflet
